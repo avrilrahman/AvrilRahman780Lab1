@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+    <hr>
+
+    <header>
+    <p><br /><br /></p>
+    <ul>
+    <p style="font-size: 30px; bold; color: Red;">Avril's TMU Education</p>
+        <li>Avril Rahman</li>
+        <li>501099213</li>
+        <li>ITM780</li>
+    <br /><br />
+    </ul> 
+
+    <hr>
+
+    </header>
+    <p><br /><br /></p>
+    <p style="font-size: 30px; bold; color: Red;">Toronto Metropolitan University</p>
+    <p style="font-size: 20px; bold; color: pink;">Business Technology Management Co-op</p>
+      <h10><b>September 2021 - Present</b></h10>
+<text> 
+<p></p>
+    <text>Over the years, I gained a strong understanding and managenent of the vital interactions of business and technology.</text>
+
+
+    <h3>Courses</h3>
+    <dl>
+  <dt>ITM200: Fundamentals of Programming</dt>
+  <dd>Learning Python was very beneficial for my own learning and career as it opened many doors!</dd>
+  <dt>ITM820: Information Systems Security and Privacy</dt>
+  <dd>I enjoyed learning about privacy and security, it helped me the most to expand my knowledge of cybersecurity. This is because I was able to apply my knowledge from this class in real-world scenarios during my Co-op placement at Tridel as an IT Experience Consultant.</dd>
+  <dt>ITM711: Cloud Computing</dt>
+  <dd>It was interesting to learn about the cloud and different cloud sources as it is huge part of IT and keeping company data safe.</dd>
+</dl>
+
+    <h3>Educational Awards</h3>
+    <ul>
+    <li>Toronto Metropolitan University Entrance Candidate Scholarship</li>
+    <li>Top 10% Engaged Student</li>
+  </ul>
+  
+  <h3>Extracurriculars</h3>
+  <p><b>Sponsorship Associate at Google Developer Student Club TMU</b></p>
+    <blockquote>
+    Responsible for securing and maintaining relationships with sponsors for the club events. Working alongside the VP of Sponsor to conduct research and identifying potential sponsors.
+    </blockquote>
+        <text>Learn more about me here:</text>
+    <p><a href=https://www.linkedin.com/in/avril-rahman-16349a213/>Avril's Linkedin<a/></p>
+        <p></p>
+        <br /><br />
+        <hr>
+        
+  
+</text>
+    <p><br /><br /></p>
+<p style="font-size: 30px; bold; color: Red;">North Toronto Metropolitan University</p>
+<p style="font-size: 20px; bold; color: pink;">September 2017 - June 2021</p>
+    <p></p>
+    <ol>
+  <li>Ontario Scholar: Received honours for top grades.</li>
+  <li>Art Council Member: As a member, I collaborated with students to create art for the school.</li>
+  <li>Camp Volunteer at the AGO: I received over 80 hours of volunteering to help camp kids daily.</li>
+</ol>
+    <p></p>
+    <br /><br />
+
+    <hr>
+
+    <p style="font-size: 30px; bold; color: Red;">Certifications</p>
+    <ul>
+    <li>Power BI Bootcamp at Ted Rogers School of Management</li>
+    <li>Python Bootcamp at Ted Rogers School of Management</li>
+    <li>AZ900 - Microsoft Azure Fundamentals</li>
+    <li>AI900 - Microsoft AI Azure Fundamentals</li>
+    <li>SC900 - Security, Compliance, and Identity Fundamentals</li>
+  </ul>
+</html>
